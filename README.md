@@ -1,1 +1,1 @@
-# VibeSphere
+Welcome to VibeSphere, a server-side application of social media sites. This is the initial commit.
